@@ -1,0 +1,1 @@
+This is an Grocery Store Implementation using MERN. This also encompasses two test code using selenium for sign up page and contact page
